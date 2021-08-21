@@ -1,0 +1,8 @@
+/* button */
+button:hover{
+    background-color: #000;
+    color: #fff;
+}
+.btm-line{
+    border-bottom: 1px solid #000;
+}
